@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tododooo</string>
+    <string name="empty_info">Looks like you are all done!</string>
+    <string name="add_todo_promt">What rings your tododoo?</string>
+    <string name="todo_description">ToDo Description</string>
+    <string name="create_todo">Create A Tododoo</string>
+</resources>
